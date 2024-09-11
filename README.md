@@ -20,6 +20,10 @@ Currently tech stacks:
 
 - Note: To format the source code, run `npm run format` and `npm run lint` to check lint
 
+## How to test this app
+
+- Run `npm run test` to start test
+
 ## Usage
 
 - This is the initial UI, we have 2 sections: **_Form_** and **_Table_**
