@@ -15,7 +15,7 @@ const columns: TableProps<ITask>['columns'] = [
 	},
 	{
 		title: 'Task',
-		dataIndex: 'desc',
+		dataIndex: 'asc',
 		key: 'desc',
 		width: 300,
 		render: (desc: string, record: ITask) => (
